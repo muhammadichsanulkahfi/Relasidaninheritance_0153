@@ -11,5 +11,5 @@ class pasien{  //Asosiasi
         cout << "Pasien \"" << nama << "\" ada\n";
     }
     ~pasien() {
-        cout << "Pasien "
+        cout << "Pasien"
     }
