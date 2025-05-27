@@ -1,5 +1,6 @@
-#ifdef IBU_H
+#ifndef IBU_H
 #define IBU_H
+#include <vector>
 
 class ibu {
     public:
@@ -11,6 +12,7 @@ class ibu {
         }
 
         ~ibu() {
-            cout << 
+            cout << "Ibu \"" << nama << "\" tidak ada\n";
         }
+
 }
